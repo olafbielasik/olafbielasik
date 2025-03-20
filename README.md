@@ -12,7 +12,6 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 - Visualizes lift and vorticity in a **4K, 240 FPS animation** using Matplotlib, FFmpeg, Flowframes and Video2X. 📹
 - Performs **9.67 trillion operations** with HPC optimization using Numba. 🧮
 - **Tech Stack**: Python, NumPy, SciPy. 
-![WingFlowLES Simulation](https://github.com/olafbielasik/WingFlowLES/data/simulation.gif)
 
 ### [ActiveSatellitesTracker](https://github.com/olafbielasik/ActiveSatellitesTracker)  
 **2D PyGame Tool to Visualize Active Satellites 🛰**  
