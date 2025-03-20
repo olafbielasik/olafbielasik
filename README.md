@@ -14,7 +14,7 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 - **Tech Stack**: Python, NumPy, SciPy.
 
 <div style="text-align: center;">
-  ## ⬇️YOUTUBE⬇️
+  ⬇️YOUTUBE⬇️
 </div>
 
 <div style="text-align: center;">
