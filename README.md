@@ -13,9 +13,7 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 - Performs **9.67 trillion operations** with HPC optimization using Numba. 🧮
 - **Tech Stack**: Python, NumPy, SciPy.
 
-<div style="text-align: center;">
-  ⬇️YOUTUBE⬇️
-</div>
+## **⬇️YOUTUBE⬇️**
 
 <div style="text-align: center;">
   <a href="https://www.youtube.com/watch?v=CqgccimCQGE">
