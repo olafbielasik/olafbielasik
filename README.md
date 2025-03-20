@@ -13,7 +13,9 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 - Performs **9.67 trillion operations** with HPC optimization using Numba. 🧮
 - **Tech Stack**: Python, NumPy, SciPy.
 
-**⬇️YOUTUBE⬇️**
+<div style="text-align: center;">
+  ## ⬇️YOUTUBE⬇️
+</div>
 [![Turbulent Flow Simulation](https://img.youtube.com/vi/CqgccimCQGE/maxresdefault.jpg)](https://www.youtube.com/watch?v=CqgccimCQGE)
 
 ### [ActiveSatellitesTracker](https://github.com/olafbielasik/ActiveSatellitesTracker)  
