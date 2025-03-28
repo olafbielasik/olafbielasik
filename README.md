@@ -36,6 +36,7 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 
 ### Tools 🛠
 - **Python** (NumPy, SciPy, Matplotlib, Numba, Pygame, Jupyter, Anaconda)
-- **SOLIDWORKS** (Flow Simulation, Visualize) | **Autodesk Software** | **OpenFOAM** 
-- **Octave** | **TensorFlow, Julia** | **Data Analysis & Visualization**
-- **Design & VFX**: Adobe Photoshop, Premiere Pro, InDesign, Vector Illustration, FlowFrames 
+- **MatLab** | **Octave** | **TensorFlow, Julia** | **Data Analysis & Visualization**
+- **C#** | **Unity**
+- **Design & VFX**: Adobe Photoshop, Premiere Pro, InDesign, Vector Illustration, FlowFrames, DaVinci Resolve
+- **SOLIDWORKS** (Flow Simulation, Visualize) | **Autodesk Software** | **OpenFOAM**
