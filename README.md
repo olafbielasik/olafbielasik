@@ -21,6 +21,10 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
   </a>
 </div>
 
+### [GravityRouge](https://github.com/olafbielasik/GravityRouge)  
+*A 2D space game developed in Unity, in which you move among asteroids in a weightless state, using a jetpack and a rope to survive. This project was created as a Unity 2D gameplay showcase.
+It features fully custom physics, procedural generation, grappling mechanics, jetpack fuel logic, and UI systems – built entirely from scratch.**  
+
 ### [ActiveSatellitesTracker](https://github.com/olafbielasik/ActiveSatellitesTracker)  
 **2D PyGame Tool to Visualize Active Satellites 🛰**  
 - Visualizes active satellites in orbit using real-time TLE data and skyfield.
