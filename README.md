@@ -13,7 +13,13 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 - Performs **9.67 trillion operations** with HPC optimization using Numba. 🧮
 - **Tech Stack**: Python, NumPy, SciPy.
 
-## **⬇️YOUTUBE⬇️**
+<h2 align="center">⬇️ YOUTUBE ⬇️</h2>
+
+<p align="center">
+  <a href="https://youtu.be/E2xUcSqLpls">
+    <img src="https://img.youtube.com/vi/E2xUcSqLpls/maxresdefault.jpg" alt="Gravity Rogue – YouTube Demo" width="600"/>
+  </a>
+</p>
 
 <div style="text-align: center;">
   <a href="https://www.youtube.com/watch?v=CqgccimCQGE">
@@ -27,7 +33,14 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 - This project was created as a Unity 2D gameplay showcase.
 - It features fully custom physics, procedural generation, grappling mechanics, jetpack fuel logic, and UI systems – built entirely from scratch.
 
-## **⬇️YOUTUBE⬇️**
+<h2 align="center">⬇️ YOUTUBE ⬇️</h2>
+
+<p align="center">
+  <a href="https://youtu.be/E2xUcSqLpls">
+    <img src="https://img.youtube.com/vi/E2xUcSqLpls/maxresdefault.jpg" alt="Gravity Rogue – YouTube Demo" width="600"/>
+  </a>
+</p>
+
 <div style="text-align: center;">
   <a href="https://youtu.be/E2xUcSqLpls">
     <img src="https://img.youtube.com/vi/E2xUcSqLpls/maxresdefault.jpg" alt="Gravity Rouge">
