@@ -29,7 +29,7 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 
 ## **⬇️YOUTUBE⬇️**
 <div style="text-align: center;">
-  <a href="[https://www.youtube.com/watch?v=CqgccimCQGE](https://youtu.be/E2xUcSqLpls)">
+  <a href="https://youtu.be/E2xUcSqLpls">
     <img src="https://img.youtube.com/vi/E2xUcSqLpls/maxresdefault.jpg" alt="Gravity Rouge">
   </a>
 </div>
