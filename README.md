@@ -15,12 +15,6 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 
 <h2 align="center">⬇️ YOUTUBE ⬇️</h2>
 
-<p align="center">
-  <a href="https://youtu.be/E2xUcSqLpls">
-    <img src="https://img.youtube.com/vi/E2xUcSqLpls/maxresdefault.jpg" alt="Gravity Rogue – YouTube Demo" width="600"/>
-  </a>
-</p>
-
 <div style="text-align: center;">
   <a href="https://www.youtube.com/watch?v=CqgccimCQGE">
     <img src="https://img.youtube.com/vi/CqgccimCQGE/maxresdefault.jpg" alt="Turbulent Flow Simulation">
@@ -40,12 +34,6 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
     <img src="https://img.youtube.com/vi/E2xUcSqLpls/maxresdefault.jpg" alt="Gravity Rogue – YouTube Demo" width="600"/>
   </a>
 </p>
-
-<div style="text-align: center;">
-  <a href="https://youtu.be/E2xUcSqLpls">
-    <img src="https://img.youtube.com/vi/E2xUcSqLpls/maxresdefault.jpg" alt="Gravity Rouge">
-  </a>
-</div>
 
 ### [ActiveSatellitesTracker](https://github.com/olafbielasik/ActiveSatellitesTracker)  
 **2D PyGame Tool to Visualize Active Satellites 🛰**  
