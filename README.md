@@ -15,11 +15,11 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 
 <h2 align="center">⬇️ YOUTUBE ⬇️</h2>
 
-<div style="text-align: center;">
+<p align="center">
   <a href="https://www.youtube.com/watch?v=CqgccimCQGE">
     <img src="https://img.youtube.com/vi/CqgccimCQGE/maxresdefault.jpg" alt="Turbulent Flow Simulation" width="600"/>
   </a>
-</div>
+</p>
 
 ### [GravityRouge](https://github.com/olafbielasik/GravityRouge)  
 **A 2D space game developed in Unity, in which you move among asteroids in a weightless state, using a jetpack and a rope to survive**
