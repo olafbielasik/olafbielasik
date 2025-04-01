@@ -34,6 +34,11 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
   </a>
 </p>
 
+### [UAVSharks](https://github.com/olafbielasik/UAVSharks)
+**This project is a modern, single-page website template for a drone parts store, developed using HTML5, CSS3, and vanilla JavaScript**
+- Features a fixed header for seamless navigation, interactive search with real-time filtering, and a dynamic shopping cart that updates instantly. 
+- Includes user account management, responsive product showcases, customer reviews, team profiles, and an FAQ section—all designed to deliver an engaging and efficient e-commerce experience.
+
 ### [ActiveSatellitesTracker](https://github.com/olafbielasik/ActiveSatellitesTracker)  
 **2D PyGame Tool to Visualize Active Satellites 🛰**  
 - Visualizes active satellites in orbit using real-time TLE data and skyfield.
