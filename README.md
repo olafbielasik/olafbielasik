@@ -6,7 +6,7 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 
 ## 🔨 Featured Projects
 
-### [WingFlowLES](https://github.com/olafbielasik/WingFlowLES)  
+### [WingFlowLES - CFD Simulation](https://github.com/olafbielasik/WingFlowLES)  
 **LES Simulation of Turbulent Flow over a Clark Y Airfoil 💨**  
 - Simulates turbulent flow over a Clark Y airfoil at a -20° angle using a 600x400 stretched grid, 60,000 steps, Smagorinsky model, and IB method.
 - Visualizes lift and vorticity in a **4K, 120 FPS animation** using Matplotlib, FFmpeg, Flowframes and Video2X. 📹
@@ -17,7 +17,7 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
   <img src="simulation.gif" alt="WingFlowLES Simulation">
 </p>
 
-### [GravityRouge](https://github.com/olafbielasik/GravityRouge)  
+### [GravityRouge - 2D Game](https://github.com/olafbielasik/GravityRouge)  
 **A 2D space game developed in Unity, in which you move among asteroids in a weightless state, using a jetpack and a rope to survive 🎮** 
 - This project was created as a Unity 2D gameplay showcase.
 - It features fully custom physics, procedural generation, grappling mechanics, jetpack fuel logic, and UI systems – built entirely from scratch.
@@ -30,7 +30,7 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
   </a>
 </p>
 
-### [UAVSharks](https://github.com/olafbielasik/UAVSharks)
+### [UAVSharks - web store](https://github.com/olafbielasik/UAVSharks)
 **This project is a modern, single-page website template for a drone parts store, developed using HTML5, CSS3, and JavaScript 🌐**
 - Features a fixed header for seamless navigation, interactive search with real-time filtering, and a dynamic shopping cart that updates instantly. 
 - Includes user account management, responsive product showcases, customer reviews, team profiles, and an FAQ section—all designed to deliver an engaging and efficient e-commerce experience.
