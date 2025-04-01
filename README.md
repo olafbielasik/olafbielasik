@@ -13,12 +13,8 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 - Performs **9.67 trillion operations** with HPC optimization using Numba. 🧮
 - **Tech Stack**: Python, NumPy, SciPy.
 
-<h2 align="center">⬇️ YOUTUBE ⬇️</h2>
-
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=CqgccimCQGE">
-    <img src="https://img.youtube.com/vi/CqgccimCQGE/maxresdefault.jpg" alt="Turbulent Flow Simulation" width="600"/>
-  </a>
+  <img src="simulation.gif" alt="WingFlowLES Simulation">
 </p>
 
 ### [GravityRouge](https://github.com/olafbielasik/GravityRouge)  
