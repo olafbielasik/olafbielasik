@@ -6,6 +6,7 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 
 ## 🔨 Featured Projects
 
+### [WingFlowLES](https://github.com/olafbielasik/WingFlowLES)  
 **LES Simulation of Turbulent Flow over a Clark Y Airfoil 💨**  
 - Simulates turbulent flow over a Clark Y airfoil at a -20° angle using a 600x400 stretched grid, 60,000 steps, Smagorinsky model, and IB method.
 - Visualizes lift and vorticity in a **4K, 120 FPS animation** using Matplotlib, FFmpeg, Flowframes and Video2X. 📹
