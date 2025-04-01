@@ -26,7 +26,7 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 
 <p align="center">
   <a href="https://youtu.be/E2xUcSqLpls">
-    <img src="https://img.youtube.com/vi/E2xUcSqLpls/maxresdefault.jpg" alt="Gravity Rogue – YouTube Demo" width="600"/>
+    <img src="https://img.youtube.com/vi/E2xUcSqLpls/maxresdefault.jpg" alt="Gravity Rogue – YouTube Demo" width="1000"/>
   </a>
 </p>
 
