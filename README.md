@@ -16,7 +16,9 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 <p align="center">
   <img src="simulation.gif" alt="WingFlowLES Simulation">
 </p>
-<a href="https://www.youtube.com/watch?v=CqgccimCQGE"><button style="background-color: #FF0000; color: white; padding: 5px 10px; border: none; border-radius: 5px;">YouTube</button></a>
+<p align="center">
+  🎥 <a href="https://www.youtube.com/watch?v=CqgccimCQGE">Watch on YouTube</a>
+</p>
 
 ### [GravityRouge - 2D Game](https://github.com/olafbielasik/GravityRouge)  
 **A 2D space game developed in Unity, in which you move among asteroids in a weightless state, using a jetpack and a rope to survive 🎮** 
