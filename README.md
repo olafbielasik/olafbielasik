@@ -50,8 +50,7 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 
 ### Industry Knowledge 💡
 - **Computational Fluid Dynamics (CFD)** | **Large Eddy Simulation (LES)** | **Immersed Boundary Method (IB)**
-- **Turbulence Modeling** | **Aerodynamics** | **Mesh Generation** | **Numerical Analysis**
-- **High-Performance Computing (HPC)**
+- **Turbulence Modeling** | **Aerodynamics** | **Mesh Generation** | **Numerical Analysis** | **High-Performance Computing (HPC)**
 - **CAD** | **FEA** | **Airframe Structural Design** | **Design for Manufacturing**
 
 ### Tools 🛠
