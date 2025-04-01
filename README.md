@@ -26,7 +26,7 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 - It features fully custom physics, procedural generation, grappling mechanics, jetpack fuel logic, and UI systems – built entirely from scratch.
 
 <p align="center">
-  <img src="pic.jpg" alt="GravityRogue">
+  <img src="start.png" alt="GravityRogue">
 </p>
 <p align="center">
   🎥 <a href="https://www.youtube.com/watch?v=E2xUcSqLpls">Watch on YouTube</a>
