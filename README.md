@@ -46,6 +46,8 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 - Visualizes active satellites in orbit using real-time TLE data and skyfield.
 - Features interactive zoom, pan, and 3D-like Earth rendering.
 
+### [HandwrittenDigitRecognizer](https://github.com/olafbielasik/HandwrittenDigitRecognizer)  
+
 ---
 
 ### Industry Knowledge 💡
@@ -54,9 +56,9 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 - **CAD** | **FEA** | **Airframe Structural Design** | **Design for Manufacturing**
 
 ### Tools 🛠
-- **Python** (NumPy, SciPy, Matplotlib, Numba, Pygame, Jupyter, Anaconda)
+- **Python** (NumPy, SciPy, Matplotlib, Numba, Pygame, PyTorch, Jupyter, Anaconda, Flask)
 - **MatLab** | **Octave** | **TensorFlow, Julia** | **Data Analysis & Visualization**
-- **JavaScript** | **html**
+- **JavaScript** | **html** | **CSS** 
 - **C#** | **Unity** 
 - **Design & VFX**: Adobe Photoshop, Premiere Pro, InDesign, Vector Illustration, FlowFrames, DaVinci Resolve
 - **SOLIDWORKS** (Flow Simulation, Visualize) | **Autodesk Software** | **OpenFOAM**
