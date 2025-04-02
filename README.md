@@ -47,7 +47,7 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 - Features interactive zoom, pan, and 3D-like Earth rendering.
 
 ### [HandwrittenDigitRecognizer](https://github.com/olafbielasik/HandwrittenDigitRecognizer)  
-**Simple Handwritten Digit Recognizer built with PyTorch and Flask**
+**Simple Handwritten Digit Recognizer built with PyTorch and Flask ✍️**
 - It trains a neural network on the MNIST dataset and deploys it as a web application where users can draw digits on a canvas and receive real-time predictions, you can also upload your own pictures.
 ---
 
