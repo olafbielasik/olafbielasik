@@ -47,6 +47,7 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 - Features interactive zoom, pan, and 3D-like Earth rendering.
 
 ### [HandwrittenDigitRecognizer](https://github.com/olafbielasik/HandwrittenDigitRecognizer)  
+**Simple Handwritten Digit Recognizer built with PyTorch and Flask**
 
 ---
 
