@@ -20,6 +20,15 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
   🎥 <a href="https://www.youtube.com/watch?v=CqgccimCQGE">Watch on YouTube</a>
 </p>
 
+### [ActiveSatellitesTracker](https://github.com/olafbielasik/ActiveSatellitesTracker)  
+**2D PyGame Tool to Visualize Active Satellites 🛰**  
+- Visualizes active satellites in orbit using real-time TLE data and skyfield.
+- Features interactive zoom, pan, and 3D-like Earth rendering.
+
+### [HandwrittenDigitRecognizer](https://github.com/olafbielasik/HandwrittenDigitRecognizer)  
+**Simple Handwritten Digit Recognizer built with PyTorch and Flask ✍️**
+- It trains a neural network on the MNIST dataset and deploys it as a web application where users can draw digits on a canvas and receive real-time predictions, you can also upload your own pictures.
+
 ### [GravityRouge - 2D Game](https://github.com/olafbielasik/GravityRouge)  
 **A 2D space game developed in Unity, in which you move among asteroids in a weightless state, using a jetpack and a rope to survive 🎮** 
 - This project was created as a Unity 2D gameplay showcase.
@@ -40,15 +49,6 @@ I'm an **M.Eng. in Aeronautical Engineering** from PUT 🎓, passionate about **
 <p align="center">
   <img src="gif1.gif" alt="gif1">
 </p>
-
-### [ActiveSatellitesTracker](https://github.com/olafbielasik/ActiveSatellitesTracker)  
-**2D PyGame Tool to Visualize Active Satellites 🛰**  
-- Visualizes active satellites in orbit using real-time TLE data and skyfield.
-- Features interactive zoom, pan, and 3D-like Earth rendering.
-
-### [HandwrittenDigitRecognizer](https://github.com/olafbielasik/HandwrittenDigitRecognizer)  
-**Simple Handwritten Digit Recognizer built with PyTorch and Flask ✍️**
-- It trains a neural network on the MNIST dataset and deploys it as a web application where users can draw digits on a canvas and receive real-time predictions, you can also upload your own pictures.
 ---
 
 ### Industry Knowledge 💡
