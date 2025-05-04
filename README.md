@@ -62,4 +62,4 @@ I'm an **M.Eng. in Aerospace Engineering** from PUT 🎓, passionate about **Com
 - **JavaScript** | **html** | **CSS** 
 - **C#** | **Unity** 
 - **Design & VFX**: Adobe Photoshop, Premiere Pro, InDesign, Vector Illustration, FlowFrames, DaVinci Resolve
-- **SOLIDWORKS** (Flow Simulation, Visualize) | **Autodesk Software** | **OpenFOAM**
+- **SOLIDWORKS** (Flow Simulation, Visualize) | **Autodesk Software** | **OpenFOAM** | Ansys
