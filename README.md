@@ -42,7 +42,7 @@ I'm an **M.Eng. in Aerospace Engineering** from PUT 🎓, passionate about **Com
 </p>
 
 ### [UAVSharks - web store](https://github.com/olafbielasik/UAVSharks)
-**This project is a modern, single-page website template for a drone parts store, developed using HTML5, CSS3, and JavaScript 🌐**
+**This project is a modern, single-page website template for a drone parts store 🌐**
 - Features a fixed header for seamless navigation, interactive search with real-time filtering, and a dynamic shopping cart that updates instantly. 
 - Includes user account management, responsive product showcases, customer reviews, team profiles, and an FAQ section—all designed to deliver an engaging and efficient e-commerce experience.
 
