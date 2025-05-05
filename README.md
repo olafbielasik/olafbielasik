@@ -34,13 +34,6 @@ I'm an **M.Eng. in Aerospace Engineering** from PUT 🎓, passionate about **Com
 - This project was created as a Unity 2D gameplay showcase.
 - It features fully custom physics, procedural generation, grappling mechanics, jetpack fuel logic, and UI systems – built entirely from scratch.
 
-<p align="center">
-  <img src="gravity.png" alt="GravityRogue">
-</p>
-<p align="center">
-  🎥 <a href="https://www.youtube.com/watch?v=E2xUcSqLpls">Watch on YouTube</a>
-</p>
-
 ### [UAVSharks - web store](https://github.com/olafbielasik/UAVSharks)
 **This project is a modern, single-page website template for a drone parts store 🌐**
 - Features a fixed header for seamless navigation, interactive search with real-time filtering, and a dynamic shopping cart that updates instantly. 
