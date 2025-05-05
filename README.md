@@ -39,9 +39,6 @@ I'm an **M.Eng. in Aerospace Engineering** from PUT 🎓, passionate about **Com
 - Features a fixed header for seamless navigation, interactive search with real-time filtering, and a dynamic shopping cart that updates instantly. 
 - Includes user account management, responsive product showcases, customer reviews, team profiles, and an FAQ section—all designed to deliver an engaging and efficient e-commerce experience.
 
-<p align="center">
-  <img src="gif1.gif" alt="gif1">
-</p>
 ---
 
 ### Industry Knowledge 💡
