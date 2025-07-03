@@ -32,7 +32,7 @@ I'm an **M.Eng. in Aerospace Engineering** from PUT 🎓, passionate about **Com
 ### [GravityRouge - 2D Game](https://github.com/olafbielasik/GravityRouge)  
 **A 2D space game developed in Unity, in which you move among asteroids in a weightless state, using a jetpack and a rope to survive 🎮** 
 - This project was created as a Unity 2D gameplay showcase.
-- It features fully custom physics, procedural generation, grappling mechanics, jetpack fuel logic, and UI systems – built entirely from scratch.
+- It features fully custom physics, procedural generation, grappling mechanics, jetpack fuel logic, and UI systems - built entirely from scratch.
 
 ### [UAVSharks - web store](https://github.com/olafbielasik/UAVSharks)
 **This project is a modern, single-page website template for a drone parts store 🌐**
