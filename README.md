@@ -39,15 +39,4 @@ I'm an **M.Eng. in Aerospace Engineering** from PUT 🎓, passionate about **Com
 - Features a fixed header for seamless navigation, interactive search with real-time filtering, and a dynamic shopping cart that updates instantly. 
 - Includes user account management, responsive product showcases, customer reviews, team profiles, and an FAQ section—all designed to deliver an engaging and efficient e-commerce experience.
 
----
 
-### Industry Knowledge 💡
-- **Computational Fluid Dynamics (CFD)** | **Large Eddy Simulation (LES)** | **Immersed Boundary Method (IB)**
-- **Turbulence Modeling** | **Aerodynamics** | **Mesh Generation** | **Numerical Analysis** | **High-Performance Computing (HPC)**
-- **CAD** | **FEA** | **Airframe Structural Design** | **Design for Manufacturing**
-
-### Tools 🛠
-- **Python** (NumPy, SciPy, Matplotlib, Numba, Pygame, PyTorch, Jupyter, Anaconda, Flask)
-- **Design & VFX**: Adobe Photoshop, Premiere Pro, InDesign, Vector Illustration, FlowFrames, DaVinci Resolve
-- **SOLIDWORKS** (Flow Simulation, Visualize) | **Autodesk Software** | **OpenFOAM** | Ansys
-- **JavaScript** | **html** | **CSS** | C# | Unity
