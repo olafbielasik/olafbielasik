@@ -11,7 +11,6 @@ I'm an **M.Eng. in Aerospace Engineering** passionate about **Computational Flui
 - Simulates turbulent flow over a Clark Y airfoil at a -20° angle using a 600x400 stretched grid, 60.000 steps, Smagorinsky model, and IB method.
 - Visualizes lift and vorticity in a **4K, 120 FPS animation** using Matplotlib, FFmpeg, Flowframes and Video2X. 📹
 - Performs **9.67 trillion operations** with HPC optimization using Numba. 🧮
-- **Tech Stack**: Python, NumPy, SciPy.
 
 <p align="center">
   <img src="simulation.gif" alt="WingFlowLES Simulation">
