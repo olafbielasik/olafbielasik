@@ -4,7 +4,7 @@ I'm an **M.Eng. in Aerospace Engineering** passionate about **Computational Flui
 
 ---
 
-## 🔨 Featured Projects
+## 🔨 Projects
 
 ### [WingFlowLES - CFD Simulation](https://github.com/olafbielasik/WingFlowLES)  
 **LES Simulation of Turbulent Flow over a Clark Y Airfoil 💨**  
