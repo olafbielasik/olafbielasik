@@ -6,6 +6,10 @@ I'm an **M.Eng. in Aerospace Engineering** passionate about **Computational Flui
 
 ## 🔨 Projects
 
+<a href="#my-projects" style="display: inline-block; padding: 10px 20px; background-color: #2ea44f; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
+  View My Projects
+</a>
+
 ### [WingFlowLES - CFD Simulation](https://github.com/olafbielasik/WingFlowLES)  
 **LES Simulation of Turbulent Flow over a Clark Y Airfoil 💨**  
 - Simulates turbulent flow over a Clark Y airfoil at a -20° angle using a 600x400 stretched grid, 60.000 steps, Smagorinsky model, and IB method.
