@@ -1,6 +1,6 @@
 # Hi there, I'm Olaf! 👋
 
-I'm an **M.Eng. in Aerospace Engineering** passionate about **Computational Fluid Dynamics**, **simulations** and **VFX**. I specialize in designing visualizations, currently exploring automation & AI 🎓.
+I'm an **M.Eng. in Aerospace Engineering** from PUT passionate about **Computational Fluid Dynamics**, **simulations** and **VFX**. I specialize in designing visualizations, currently exploring automation & AI 🎓.
 
 ---
 
