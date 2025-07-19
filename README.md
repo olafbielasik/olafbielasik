@@ -1,4 +1,4 @@
-# Hi there, I'm Olaf! 👋
+# Hello there, I'm Olaf! 👋
 
 I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Computational Fluid Dynamics**, **simulations** and **VFX**. I create data visualizations and develop websites, currently exploring automation & AI 🎓.
 
