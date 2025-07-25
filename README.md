@@ -20,7 +20,7 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 </p>
 
 ### [StarlinkTracker](https://github.com/olafbielasik/StarlinkTracker)  
-- Real-time rendering of Starlink satellite positions, based on real-time TLE data
+**Real-time rendering of Starlink satellite positions, based on real-time TLE data 🛰**
 - Earth globe with zoom & rotate (mouse-controlled)
 - Tooltip showing satellite name and coordinates
 
