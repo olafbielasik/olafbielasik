@@ -25,7 +25,7 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 - Tooltip showing satellite name and coordinates
 
 <p align="center">
-  <img src="starlink.gif" width="600" />
+  <img src="starlink.gif"/>
 </p>
 
 ### [ActiveSatellitesTracker](https://github.com/olafbielasik/ActiveSatellitesTracker)  
