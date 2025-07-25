@@ -19,6 +19,15 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
   🎥 <a href="https://www.youtube.com/watch?v=CqgccimCQGE">Watch on YouTube</a>
 </p>
 
+### [StarlinkTracker](https://github.com/olafbielasik/StarlinkTracker)  
+- Real-time rendering of Starlink satellite positions, based on real-time TLE data
+- Earth globe with zoom & rotate (mouse-controlled)
+- Tooltip showing satellite name and coordinates
+
+<p align="center">
+  <img src="starlinkss.png" alt="StarlinkTracker">
+</p>
+
 ### [ActiveSatellitesTracker](https://github.com/olafbielasik/ActiveSatellitesTracker)  
 **2D PyGame Tool to Visualize Active Satellites 🛰**  
 - Visualizes active satellites in orbit using real-time TLE data and skyfield.
