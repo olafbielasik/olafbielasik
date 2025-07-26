@@ -47,10 +47,6 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 - Mouse scroll interaction to control 4D spin speed
 - Lightweight and standalone structure
 
-<p align="center">
-  <img src="tesseract.gif"/>
-</p>
-
 ### [UAVSharks - web store](https://github.com/olafbielasik/UAVSharks)
 **This project is a modern, single-page website template for a drone parts store 🌐**
 - Features a fixed header for seamless navigation, interactive search with real-time filtering, and a dynamic shopping cart that updates instantly
