@@ -39,7 +39,7 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
   <img src="portfolio.gif"/>
 </p>
 
-# [Tesseract](https://github.com/olafbielasik/Tesseract) 
+### [Tesseract](https://github.com/olafbielasik/Tesseract) 
 **Interactive 4D tesseract (hypercube) visualization built using Three.js**
 - Real-time 4D tesseract rotation and projection into 3D space
 - Animated lines with dynamic color cycling
