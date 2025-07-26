@@ -8,9 +8,9 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 
 ### [WingFlowLES - CFD Simulation](https://github.com/olafbielasik/WingFlowLES)  
 **LES Simulation of Turbulent Flow over a Clark Y Airfoil 💨**  
-- Simulates turbulent flow over a Clark Y airfoil at a -20° angle using a 600x400 stretched grid, 60.000 steps, Smagorinsky model, and IB method.
-- Visualizes lift and vorticity in a **4K, 120 FPS animation** using Matplotlib, FFmpeg, Flowframes and Video2X. 📹
-- Performs **9.67 trillion operations** with HPC optimization using Numba. 🧮
+- Simulates turbulent flow over a Clark Y airfoil at a -20° angle using a 600x400 stretched grid, 60.000 steps, Smagorinsky model, and IB method
+- Visualizes lift and vorticity in a **4K, 120 FPS animation** using Matplotlib, FFmpeg, Flowframes and Video2X 📹
+- Performs **9.67 trillion operations** with HPC optimization using Numba 🧮
 
 <p align="center">
   <img src="simulation.gif" alt="WingFlowLES Simulation">
@@ -30,6 +30,14 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 
 ### [Portfolio](https://github.com/olafbielasik/Portfolio)  
 **Interactive personal portfolio website 🌐**  
+- Clean and responsive design
+- Dynamic transition from light to space mode
+- Project gallery with live GitHub links
+- macOS-style interactive dock
+
+<p align="center">
+  <img src="portfolio.gif"/>
+</p>
 
 ### [ActiveSatellitesTracker](https://github.com/olafbielasik/ActiveSatellitesTracker)  
 **2D PyGame Tool to Visualize Active Satellites 🛰**  
