@@ -28,6 +28,9 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
   <img src="starlink.gif"/>
 </p>
 
+### [Portfolio](https://github.com/olafbielasik/Portfolio)  
+**Interactive personal portfolio website 🌐**  
+
 ### [ActiveSatellitesTracker](https://github.com/olafbielasik/ActiveSatellitesTracker)  
 **2D PyGame Tool to Visualize Active Satellites 🛰**  
 - Visualizes active satellites in orbit using real-time TLE data and skyfield.
