@@ -2,7 +2,7 @@
 
 I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Computational Fluid Dynamics**, **simulations** and **VFX**. I create data visualizations and develop websites, currently exploring automation & AI 🎓.
 
-## **Check out my portfolio site!**
+## **Check out my portfolio site!** [click below]
 
 [![Portfolio](portfolio.gif)](https://olafbielasik.site)
 
