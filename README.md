@@ -2,6 +2,10 @@
 
 I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Computational Fluid Dynamics**, **simulations** and **VFX**. I create data visualizations and develop websites, currently exploring automation & AI 🎓.
 
+## **Check out my portfolio site!**
+
+[![Portfolio](portfolio.gif)](https://olafbielasik.site)
+
 ---
 
 ## 🔨 Projects
@@ -30,10 +34,6 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 - Dynamic transition from light to space mode
 - Project gallery with live GitHub links
 - macOS-style interactive dock
-
-<p align="center">
-  <img src="portfolio.gif"/>
-</p>
 
 ### [Tesseract](https://github.com/olafbielasik/Tesseract) 
 **Interactive 4D tesseract (hypercube) visualization built using Three.js**
