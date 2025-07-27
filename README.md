@@ -24,10 +24,6 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 - Earth globe with zoom & rotate (mouse-controlled)
 - Tooltip showing satellite name and coordinates
 
-<p align="center">
-  <img src="starlink.gif"/>
-</p>
-
 ### [Portfolio](https://github.com/olafbielasik/Portfolio)  
 **Interactive personal portfolio website 🌐**  
 - Clean and responsive design
