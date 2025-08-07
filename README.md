@@ -28,36 +28,36 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 - Earth globe with zoom & rotate (mouse-controlled)
 - Tooltip showing satellite name and coordinates
 
-### [Portfolio](https://github.com/olafbielasik/Portfolio)  
+### [UAVSharks - web store](https://github.com/olafbielasik/UAVSharks)
+**This project is a modern, single-page website template for a drone parts store 🌐**
+- Features a fixed header for seamless navigation, interactive search with real-time filtering, and a dynamic shopping cart that updates instantly
+- Includes user account management, responsive product showcases, customer reviews, team profiles, and an FAQ section—all designed to deliver an engaging and efficient e-commerce experience
+
+### [Portfolio Template](https://github.com/olafbielasik/Portfolio)  
 **Interactive personal portfolio website 🌐**  
 - Clean and responsive design
 - Dynamic transition from light to space mode
 - Project gallery with live GitHub links
 - macOS-style interactive dock
 
-### [Tesseract](https://github.com/olafbielasik/Tesseract) 
-**Interactive 4D tesseract (hypercube) visualization built using Three.js**
-- Real-time 4D tesseract rotation and projection into 3D space
-- Animated lines with dynamic color cycling
-- Orbiting technology logos (optional)
-- Mouse scroll interaction to control 4D spin speed
-- Lightweight and standalone structure
-
-### [UAVSharks - web store](https://github.com/olafbielasik/UAVSharks)
-**This project is a modern, single-page website template for a drone parts store 🌐**
-- Features a fixed header for seamless navigation, interactive search with real-time filtering, and a dynamic shopping cart that updates instantly
-- Includes user account management, responsive product showcases, customer reviews, team profiles, and an FAQ section—all designed to deliver an engaging and efficient e-commerce experience
-
 ### [GravityRouge - 2D Game](https://github.com/olafbielasik/GravityRouge)  
 **A 2D space game developed in Unity, in which you move among asteroids in a weightless state, using a jetpack and a rope to survive 🎮** 
 - This project was created as a Unity 2D gameplay showcase
 - It features fully custom physics, procedural generation, grappling mechanics, jetpack fuel logic, and UI systems - built entirely from scratch
+
+### [HandwrittenDigitRecognizer](https://github.com/olafbielasik/HandwrittenDigitRecognizer)  
+**Simple Handwritten Digit Recognizer built with PyTorch and Flask ✍️**
+- It trains a neural network on the MNIST dataset and deploys it as a web application where users can draw digits on a canvas and receive real-time predictions, you can also upload your own pictures
 
 ### [ActiveSatellitesTracker](https://github.com/olafbielasik/ActiveSatellitesTracker)  
 **2D PyGame Tool to Visualize Active Satellites 🛰**  
 - Visualizes active satellites in orbit using real-time TLE data and skyfield
 - Features interactive zoom, pan, and 3D-like Earth rendering
 
-### [HandwrittenDigitRecognizer](https://github.com/olafbielasik/HandwrittenDigitRecognizer)  
-**Simple Handwritten Digit Recognizer built with PyTorch and Flask ✍️**
-- It trains a neural network on the MNIST dataset and deploys it as a web application where users can draw digits on a canvas and receive real-time predictions, you can also upload your own pictures
+** [Tesseract](https://github.com/olafbielasik/Tesseract) **
+**Interactive 4D tesseract (hypercube) visualization built using Three.js**
+- Real-time 4D tesseract rotation and projection into 3D space
+- Animated lines with dynamic color cycling
+- Orbiting technology logos (optional)
+- Mouse scroll interaction to control 4D spin speed
+- Lightweight and standalone structure
