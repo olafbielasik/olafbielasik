@@ -51,6 +51,9 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 - Browse the latest articles, complete with categories, author information, publication dates, and estimated read times
 - Built with a component-based structure, making it easy to maintain and extend with new features
 
+### [TodoList](https://github.com/olafbielasik/TodoList)  
+**A perfect starting point for anyone who wants a lightweight, beautiful to-do list app**  
+
 ### [HandwrittenDigitRecognizer](https://github.com/olafbielasik/HandwrittenDigitRecognizer)  
 **Simple Handwritten Digit Recognizer built with PyTorch and Flask ✍️**
 - It trains a neural network on the MNIST dataset and deploys it as a web application where users can draw digits on a canvas and receive real-time predictions, you can also upload your own pictures
