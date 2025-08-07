@@ -45,6 +45,12 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 - This project was created as a Unity 2D gameplay showcase
 - It features fully custom physics, procedural generation, grappling mechanics, jetpack fuel logic, and UI systems - built entirely from scratch
 
+### [ModernBlog](https://github.com/olafbielasik/ModernBlog)  
+**Modern blogging platform designed for both writers and readers ✍️**  
+– A clean, intuitive, and fully responsive design that ensures a seamless user experience across all devices
+– Browse the latest articles, complete with categories, author information, publication dates, and estimated read times
+– Built with a component-based structure, making it easy to maintain and extend with new features
+
 ### [HandwrittenDigitRecognizer](https://github.com/olafbielasik/HandwrittenDigitRecognizer)  
 **Simple Handwritten Digit Recognizer built with PyTorch and Flask ✍️**
 - It trains a neural network on the MNIST dataset and deploys it as a web application where users can draw digits on a canvas and receive real-time predictions, you can also upload your own pictures
