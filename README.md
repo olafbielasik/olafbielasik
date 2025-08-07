@@ -54,7 +54,7 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 - Visualizes active satellites in orbit using real-time TLE data and skyfield
 - Features interactive zoom, pan, and 3D-like Earth rendering
 
-** [Tesseract](https://github.com/olafbielasik/Tesseract) **
+### [Tesseract](https://github.com/olafbielasik/Tesseract) ###
 **Interactive 4D tesseract (hypercube) visualization built using Three.js**
 - Real-time 4D tesseract rotation and projection into 3D space
 - Animated lines with dynamic color cycling
