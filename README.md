@@ -23,6 +23,17 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
   🎥 <a href="https://www.youtube.com/watch?v=CqgccimCQGE">Watch on YouTube</a>
 </p>
 
+### [Product Website Template](https://github.com/olafbielasik/DesignProductTemplate)  
+**Interactive web template for showcasing high-end product**
+- Custom vertex and fragment shaders with Three.js for animated, interactive backgrounds
+- Embedded Sketchfab model for real-time, rotatable product visualization
+- Adaptable design for desktop, tablet, and mobile
+- Hover animations, scroll indicators, and animated call-to-action components
+
+<p align="center">
+  <img src="aether.gif" alt="aether">
+</p>
+
 ### [StarlinkTracker](https://github.com/olafbielasik/StarlinkTracker)  
 **Real-time rendering of Starlink satellite positions, based on real-time TLE data 🛰**
 - Earth globe with zoom & rotate (mouse-controlled)
