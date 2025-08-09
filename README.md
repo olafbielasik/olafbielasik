@@ -59,7 +59,6 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 ### [ModernBlog](https://github.com/olafbielasik/ModernBlog)  
 **Landing page of modern blogging platform designed for both writers and readers ✍️**  
 - A clean, intuitive, and fully responsive design that ensures a seamless user experience across all devices
-- Browse the latest articles, complete with categories, author information, publication dates, and estimated read times
 - Built with a component-based structure, making it easy to maintain and extend with new features
 
 ### [TodoList](https://github.com/olafbielasik/TodoList)  
