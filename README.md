@@ -44,22 +44,19 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 - Features a fixed header for seamless navigation, interactive search with real-time filtering, and a dynamic shopping cart that updates instantly
 - Includes user account management, responsive product showcases, customer reviews, team profiles, and an FAQ section—all designed to deliver an engaging and efficient e-commerce experience
 
-### [Portfolio Template](https://github.com/olafbielasik/Portfolio)  
-**Interactive personal portfolio website 🌐**  
-- Clean and responsive design
-- Dynamic transition from light to space mode
-- Project gallery with live GitHub links
-- macOS-style interactive dock
-
 ### [GravityRouge - 2D Game](https://github.com/olafbielasik/GravityRouge)  
 **A 2D space game developed in Unity, in which you move among asteroids in a weightless state, using a jetpack and a rope to survive 🎮** 
 - This project was created as a Unity 2D gameplay showcase
 - It features fully custom physics, procedural generation, grappling mechanics, jetpack fuel logic, and UI systems - built entirely from scratch
 
 ### [ModernBlog](https://github.com/olafbielasik/ModernBlog)  
-**Landing page of modern blogging platform designed for both writers and readers ✍️**  
+**Modern blogging platform designed for both writers and readers ✍️**  
 - A clean, intuitive, and fully responsive design that ensures a seamless user experience across all devices
 - Built with a component-based structure, making it easy to maintain and extend with new features
+
+<p align="center">
+  <img src="modernblog.gif" alt="modernblog">
+</p>
 
 ### [TodoList](https://github.com/olafbielasik/TodoList)  
 **A perfect starting point for anyone who wants a lightweight, beautiful to-do list app**  
@@ -67,12 +64,7 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 ### [HandwrittenDigitRecognizer](https://github.com/olafbielasik/HandwrittenDigitRecognizer)  
 **Simple Handwritten Digit Recognizer built with PyTorch and Flask ✍️**
 - It trains a neural network on the MNIST dataset and deploys it as a web application where users can draw digits on a canvas and receive real-time predictions, you can also upload your own pictures
-
-### [ActiveSatellitesTracker](https://github.com/olafbielasik/ActiveSatellitesTracker)  
-**2D PyGame Tool to Visualize Active Satellites 🛰**  
-- Visualizes active satellites in orbit using real-time TLE data and skyfield
-- Features interactive zoom, pan, and 3D-like Earth rendering
-
+  
 ### [Tesseract](https://github.com/olafbielasik/Tesseract) ###
 **Interactive 4D tesseract (hypercube) visualization built using Three.js**
 - Real-time 4D tesseract rotation and projection into 3D space
@@ -80,3 +72,15 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 - Orbiting technology logos (optional)
 - Mouse scroll interaction to control 4D spin speed
 - Lightweight and standalone structure
+
+### [Portfolio Template](https://github.com/olafbielasik/Portfolio)  
+**Interactive personal portfolio website 🌐**  
+- Clean and responsive design
+- Dynamic transition from light to space mode
+- Project gallery with live GitHub links
+- macOS-style interactive dock
+
+### [ActiveSatellitesTracker](https://github.com/olafbielasik/ActiveSatellitesTracker)  
+**2D PyGame Tool to Visualize Active Satellites 🛰**  
+- Visualizes active satellites in orbit using real-time TLE data and skyfield
+- Features interactive zoom, pan, and 3D-like Earth rendering
