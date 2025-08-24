@@ -34,7 +34,7 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
   <img src="aether.gif" alt="aether">
 </p>
 
-### [StarlinkTracker](https://github.com/olafbielasik/StarlinkTracker)  
+### [Starlink Tracker](https://github.com/olafbielasik/StarlinkTracker)  
 **Real-time rendering of Starlink satellite positions, based on real-time TLE data 🛰**
 - Earth globe with zoom & rotate (mouse-controlled)
 - Tooltip showing satellite name and coordinates
@@ -49,7 +49,7 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 - This project was created as a Unity 2D gameplay showcase
 - It features fully custom physics, procedural generation, grappling mechanics, jetpack fuel logic, and UI systems - built entirely from scratch
 
-### [ModernBlog](https://github.com/olafbielasik/ModernBlog)  
+### [Modern Blog](https://github.com/olafbielasik/ModernBlog)  
 **Modern blogging platform designed for both writers and readers ✍️**  
 - A clean, intuitive, and fully responsive design that ensures a seamless user experience across all devices
 - Built with a component-based structure, making it easy to maintain and extend with new features
@@ -58,7 +58,7 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
   <img src="modernblog.gif" alt="modernblog">
 </p>
 
-### [TodoList](https://github.com/olafbielasik/TodoList)  
+### [Todo List](https://github.com/olafbielasik/TodoList)  
 **A perfect starting point for anyone who wants a lightweight, beautiful to-do list app**  
 
 ### [HandwrittenDigitRecognizer](https://github.com/olafbielasik/HandwrittenDigitRecognizer)  
