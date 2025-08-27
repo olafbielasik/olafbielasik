@@ -2,10 +2,6 @@
 
 I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Computational Fluid Dynamics** and **simulations**. I create data visualizations and develop websites, currently exploring automation & AI 🎓.
 
-## **Check out my portfolio site!** [click below]
-
-[![Portfolio](portfolio.gif)](https://olafbielasik.site)
-
 ---
 
 ## 🔨 Projects
@@ -84,3 +80,7 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 **2D PyGame Tool to Visualize Active Satellites 🛰**  
 - Visualizes active satellites in orbit using real-time TLE data and skyfield
 - Features interactive zoom, pan, and 3D-like Earth rendering
+
+## **Check out my portfolio site!** [click below]
+
+[![Portfolio](portfolio.gif)](https://olafbielasik.site)
