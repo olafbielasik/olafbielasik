@@ -26,10 +26,6 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 - Adaptable design for desktop, tablet, and mobile
 - Hover animations, scroll indicators, and animated call-to-action components
 
-<p align="center">
-  <img src="aether.gif" alt="aether">
-</p>
-
 ### [Starlink Tracker](https://github.com/olafbielasik/StarlinkTracker)  
 **Real-time rendering of Starlink satellite positions, based on real-time TLE data 🛰**
 - Earth globe with zoom & rotate (mouse-controlled)
@@ -49,10 +45,6 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 **Modern blogging platform designed for both writers and readers ✍️**  
 - A clean, intuitive, and fully responsive design that ensures a seamless user experience across all devices
 - Built with a component-based structure, making it easy to maintain and extend with new features
-
-<p align="center">
-  <img src="modernblog.gif" alt="modernblog">
-</p>
 
 ### [Todo List](https://github.com/olafbielasik/TodoList)  
 **A perfect starting point for anyone who wants a lightweight, beautiful to-do list app**  
