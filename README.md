@@ -66,6 +66,10 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 - Visualizes active satellites in orbit using real-time TLE data and skyfield
 - Features interactive zoom, pan, and 3D-like Earth rendering
 
+## **Check out my latest freelance work!** [click below]
+
+[![Kiszonki](kiszonki.gif)](https://kiszonkinaturalne.pl)
+
 ## **Check out my interactive portfolio site!** [click below]
 
 [![Portfolio](portfolio.gif)](https://olafbielasik.site)
