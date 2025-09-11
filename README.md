@@ -40,11 +40,3 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 **A 2D space game developed in Unity, in which you move among asteroids in a weightless state, using a jetpack and a rope to survive** 
 - This project was created as a Unity 2D gameplay showcase
 - It features fully custom physics, procedural generation, grappling mechanics, jetpack fuel logic, and UI systems - built entirely from scratch
-
-## **Check out my latest freelance work!**
-
-[![Kiszonki](kiszonki.gif)](https://kiszonkinaturalne.pl)
-
-## **Check out my interactive portfolio site!**
-
-[![Portfolio](portfolio.gif)](https://olafbielasik.site)
