@@ -31,11 +31,6 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 - Adaptable design for desktop, tablet, and mobile
 - Hover animations, scroll indicators, and animated call-to-action components
 
-### [UAV Sharks - Web Store](https://github.com/olafbielasik/UAVSharks)
-**This project is a modern, single-page website template for a drone parts store**
-- Features a fixed header for seamless navigation, interactive search with real-time filtering, and a dynamic shopping cart that updates instantly
-- Includes user account management, responsive product showcases, customer reviews, team profiles, and an FAQ section—all designed to deliver an engaging and efficient e-commerce experience
-
 ### [GravityRouge - 2D Game](https://github.com/olafbielasik/GravityRouge)  
 **A 2D space game developed in Unity, in which you move among asteroids in a weightless state, using a jetpack and a rope to survive** 
 - This project was created as a Unity 2D gameplay showcase
