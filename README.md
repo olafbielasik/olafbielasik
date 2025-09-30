@@ -1,6 +1,6 @@
 # Hello there, I'm Olaf! 👋
 
-I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Computational Fluid Dynamics** and **simulations**. Creating data visualizations, currently exploring **HPC** 🎓.
+I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Computational Fluid Dynamics** and **simulations**. Currently creating data visualizations & exploring **HPC** 🎓.
 
 ---
 
