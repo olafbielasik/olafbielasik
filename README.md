@@ -24,13 +24,6 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **Comput
 - Earth globe with zoom & rotate (mouse-controlled)
 - Tooltip showing satellite name and coordinates
 
-### [Product Website Template](https://github.com/olafbielasik/DesignProductTemplate)  
-**Interactive web template for showcasing high-end product**
-- Custom vertex and fragment shaders with Three.js for animated, interactive backgrounds
-- Embedded Sketchfab model for real-time, rotatable product visualization
-- Adaptable design for desktop, tablet, and mobile
-- Hover animations, scroll indicators, and animated call-to-action components
-
 ### [GravityRouge - 2D Game](https://github.com/olafbielasik/GravityRouge)  
 **A 2D space game developed in Unity, in which you move among asteroids in a weightless state, using a jetpack and a rope to survive** 
 - This project was created as a Unity 2D gameplay showcase
