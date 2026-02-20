@@ -1,6 +1,6 @@
 # Hello there, I'm Olaf! 👋
 
-I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **simulations** 🎓
+I'm an **MSc Eng. in Aerospace Engineering** from PUT, passionate about **simulations & optimization** 🎓
 
 ---
 
