@@ -4,7 +4,7 @@ I'm an **MSc Eng. in Aerospace Engineering** from PUT, fascinated by **simulatio
 
 ---
 
-## 🔨 Projects
+## Projects
 
 ### [WingFlowLES - CFD Simulation](https://github.com/olafbielasik/WingFlowLES)  
 **LES Simulation of Turbulent Flow over a Clark Y Airfoil**  
