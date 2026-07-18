@@ -1,6 +1,6 @@
 # Hello there, I'm Olaf! 👋
 
-I'm an **MSc Eng. in Aerospace Engineering**, interested in **simulations & optimization** 🎓
+I'm an Engineer interested in **simulations & optimization** 🎓
 
 ---
 
